@@ -8,6 +8,7 @@ __pycache__
 /.cproject
 /.project
 /.settings
+/.vscode
 /qtcreator.files
 /qtcreator.includes
 /qtcreator.config
